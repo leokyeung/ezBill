@@ -1,0 +1,20 @@
+{
+  "name": "ezBill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leokyeung/ezBill.git"
+  },
+  "keywords": [],
+  "author": "Leo Yeung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leokyeung/ezBill/issues"
+  },
+  "homepage": "https://github.com/leokyeung/ezBill#readme"
+}
